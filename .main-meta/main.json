@@ -4,10 +4,10 @@
    "content":{
       "metaDataVersion":"1.3.0",
       "name":"com.microchip.mplabx.project.mchv230vac1.5kw-33ck256mp508-pmsm-an1299-foc-pll",
-      "version":"1.0.0",
-      "displayName":"AN1299 dsPIC33CK256MP508 MCHV-230VAC-1.5kW",
+      "version":"1.0.1",
+      "displayName":"AN1299 Sensorless FOC of PMSM using PLL Estimator and single-shunt current reconstruction algorithm: MCHV-230VAC-1.5kW and dsPIC33CK256MP508 MC DIM",
       "projectName":"mchv230vac1.5kw-33ck256mp508-pmsm-an1299-foc-pll",
-      "shortDescription":"Sensorless FOC using PLL Estimator and Single-Shunt Current Reconstruction Algorithm for PMSM : MCHV-230VAC-1.5kW and dsPIC33CK256MP508 Motor Control DIM",
+      "shortDescription":"Sensorless Field Oriented Control of PMSM using back-EMF based PLL estimator and single-shunt current reconstruction algorithm(AN1299)",
       "ide":{
          "name":"MPLABX",
          "semverRange":">=6.20"
